@@ -1,1 +1,1 @@
-# Java-Algorithm-Demos
+# Java Algorithm Demos
